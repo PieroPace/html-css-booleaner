@@ -1,0 +1,80 @@
+body{
+    margin: auto;
+}
+
+header{
+    background-color: rgb(67, 113, 182);
+}
+.img-testata{
+    background-image: url(../img/testata.png);
+    height: 170px;
+}
+
+
+header img{
+    height: 70px;
+}
+.font{
+    font-size: 50px;
+}
+
+.txt-grey{
+    color: grey;
+}
+.txt-blue{
+    color: rgb(50, 103, 146);
+    
+}
+
+.font-txt{
+    font-size:large;
+}
+.width-20 {
+    width: 20%;
+}
+
+.width-40 {
+    width: 50%;
+}
+
+th{
+    text-align: left;
+}
+
+table{
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: #19AAE6;
+    border-color: #19AAE6;
+}
+
+tbody > .lightblue {
+    background-color: #B2E6F2;
+}
+
+#footer-title {
+    font-size: 15px;
+    color: grey;
+    font-weight: bold;
+}
+.image {
+    width: 250px;
+    height: 200px;
+    background-size: cover 100%;
+    margin: 10px 0;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+#monitor {
+    background-image: url(../img/final1.jpg);
+}
+#grafica{
+    background-image: url(../img/final2.jpg);
+}
